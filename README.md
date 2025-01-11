@@ -11,25 +11,25 @@ intfs - это графическое приложение на Python, кото
 ## Установка
 1. Клонирование репозитория
 
-```
+```bash
 git clone https://github.com/zalisfer/intfs
 ```
 
 2. Переход в директорию приложения
 
-```
+```bash
 cd intfs
 ```
 
 3. Установка зависимостей
 
-```
+```bash
 sudo apt-get install python3-tk -y
 ```
 
 
 4. Запуск программы, обязательно с правами рут пользователя
 
-```
+```bash
 sudo python3 intfs.py
 ```
